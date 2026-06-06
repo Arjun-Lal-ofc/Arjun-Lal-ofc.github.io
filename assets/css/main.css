@@ -1455,23 +1455,7 @@ input, select, textarea {
 			border: solid 1px #ffffff;
 			border-radius: 4px;
 		}
-        #header nav ul {
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
-    width: auto !important;
-}
-
-#header nav ul li {
-    flex: 1 !important;
-}
-
-#header nav ul li a {
-    text-align: center !important;
-    width: 100% !important;
-}
-
-			#header nav ul li {
+    	#header nav ul li {
 				padding-left: 0;
 				border-left: solid 1px #ffffff;
 			}
