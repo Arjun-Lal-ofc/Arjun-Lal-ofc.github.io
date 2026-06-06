@@ -1495,6 +1495,23 @@ input, select, textarea {
 			height: 100%;
 			background: #ffffff;
 		}
+        #header nav {
+    display: flex;
+    justify-content: center;
+}
+
+#header nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0 auto;
+    width: fit-content;
+}
+
+#header nav ul li {
+    margin: 0;
+}
 
 		#header nav.use-middle ul li.is-middle {
 			border-left: 0;
