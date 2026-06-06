@@ -1030,8 +1030,16 @@ input, select, textarea {
 		text-transform: uppercase;
 		white-space: nowrap;
 	}
-
-		input[type="submit"]:hover,
+       .upi-btn{
+  display:inline-block;
+  padding:12px 24px;
+  background:#28a745;
+  color:white;
+  text-decoration:none;
+  border-radius:8px;
+  font-weight:bold;
+}
+        input[type="submit"]:hover,
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		button:hover,
